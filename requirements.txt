@@ -1,0 +1,9 @@
+opencv-python==3.7.4
+jupyter
+matplotlib
+numpy
+ipykernel
+pickle
+torch
+torchvision
+datetime
