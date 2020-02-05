@@ -31,18 +31,5 @@ The data comes from the UCI Machine Learning Database.
 
 If you need help running the notebook file, check out the Jupyter notebook lesson.
 
-# Submission
-Before submitting your solution to a reviewer, you are required to submit your project to Udacity's Project Assistant, which will provide some initial feedback. It will give you feedback within a minute or two on whether your project will meet all specifications. It is possible to submit projects which do not pass all tests; you can expect to get feedback from your Udacity reviewer on these within 3-4 days.
-
-The setup for the project assistant is simple. If you have not installed the client tool from a different Nanodegree program already, then you may do so with the command pip install udacity-pa.
-
-To submit your code to the project assistant, run udacity submit from within the top-level directory of the project. You will be prompted for a username and password. If you login using google or facebook, visit this link for alternate login instructions.
-
-This process will create a zipfile in your top-level directory named first_neural_network-result-.zip, where there will be a number between result- and .zip. This is the file that you should submit to the Udacity reviews system.
-
-Upload that file into the system and hit Submit Project below!
-
-If you run into any issues using the project assistant, please check this page to troubleshoot; feel free to post your problem in Knowledge if it isn't covered by one of the displayed cases!
-
-# What to do afterwards
-If you're waiting for new content or to get the review back, here's a great video from Frank Chen about the history of deep learning. It's a 45 minute video, sort of a short documentary, starting in the 1950s and bringing us to the current boom in deep learning and artificial intelligence.
+# License
+Generate Faces project is released under the [MIT License](https://github.com/JDGALLEGOS/Predicting-Bike-Sharing-Data/blob/master/LICENSE).
