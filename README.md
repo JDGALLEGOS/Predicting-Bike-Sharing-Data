@@ -32,4 +32,4 @@ The data comes from the UCI Machine Learning Database.
 If you need help running the notebook file, check out the Jupyter notebook lesson.
 
 # License
-Generate Faces project is released under the [MIT License](https://github.com/JDGALLEGOS/Predicting-Bike-Sharing-Data/blob/master/LICENSE).
+Predictin Bike Sharing Project is released under the [MIT License](https://github.com/JDGALLEGOS/Predicting-Bike-Sharing-Data/blob/master/LICENSE).
